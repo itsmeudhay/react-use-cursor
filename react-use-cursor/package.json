@@ -1,6 +1,6 @@
 {
   "name": "react-use-cursor",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A custom React hook for creating and managing dynamic cursor effects in React applications. This hook allows developers to customize the cursor's appearance, including size, color, shape, and transition effects, enhancing user interaction and visual feedback.",
   "main": "dist/reactUseCursor.js",
   "types": "dist/reactUseCursor.d.ts",
